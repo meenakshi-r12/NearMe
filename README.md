@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 12.4.25
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -361,11 +361,22 @@ mmmhospital.html
 
 ## OUTPUT
 
+![Screenshot (6)](https://github.com/user-attachments/assets/89da1963-a3c8-4fe8-a1d6-5f7f917dd578)
 
 
+![Screenshot (7)](https://github.com/user-attachments/assets/2ee1a079-f0c5-402f-bc26-da8dbd590655)
 
 
+![Screenshot (8)](https://github.com/user-attachments/assets/b9e794ff-9e3e-40d9-a620-ab307e0be26b)
 
+
+![Screenshot (9)](https://github.com/user-attachments/assets/f1e7018c-c75a-48db-8d2b-a7b1c58bccc3)
+
+
+![Screenshot (10)](https://github.com/user-attachments/assets/0b0c5da4-05c7-4aa6-a425-4c2fbe4777c3)
+
+
+![Screenshot (11)](https://github.com/user-attachments/assets/c1902be2-f4fb-4680-8bff-d5a29115488d)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
